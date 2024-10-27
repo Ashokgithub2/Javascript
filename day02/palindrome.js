@@ -1,4 +1,4 @@
-var palindrom, lname="malaxalam" ,len=lname.length-1
+var palindrom, lname="level" ,len=lname.length-1
 
 for (i=0;i<len;i++)
 {
